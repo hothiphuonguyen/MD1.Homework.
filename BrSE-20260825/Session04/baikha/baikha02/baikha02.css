@@ -1,0 +1,34 @@
+* {        
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+.container{
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #d8d89d;
+}
+h1 {
+    text-align: center;
+    color:blue;
+    padding: 20px;
+}
+p {
+    text-align: center;
+    font-size: 18px;
+    line-height: 1.6;
+    margin: 20px 0;
+}
+a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #b9bbbd;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+    a:hover {
+   background-color: green;
+}
